@@ -1,0 +1,13 @@
+div.add-request form p label {
+	display: inline-block;
+	width: 200px;
+}
+
+div.add-request form p label span {
+	color: red;
+}
+
+textarea.comments {
+	resize: none;
+	width: 170px;
+}
